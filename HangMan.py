@@ -14,7 +14,7 @@ import random
 # In[3]:
 
 
-path = "D:/python projects/movies_metadata/movies_metadata.csv"
+path = "/movies_metadata.csv"
 
 
 # In[4]:
